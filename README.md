@@ -11,4 +11,9 @@ Operator learning techniques have recently emerged as a powerful tool for learni
 
 ## Citation
 
-TBA
+    @article{wang2021improved,
+      title={Improved architectures and training algorithms for deep operator networks},
+      author={Wang, Sifan and Wang, Hanwen and Perdikaris, Paris},
+      journal={arXiv preprint arXiv:2110.01654},
+      year={2021}
+    }
