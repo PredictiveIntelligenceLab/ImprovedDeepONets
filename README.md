@@ -10,7 +10,7 @@ Operator learning techniques have recently emerged as a powerful tool for learni
 
 # Datasets
 
-## Citation
+# Citation
 
     @article{wang2021improved,
       title={Improved architectures and training algorithms for deep operator networks},
