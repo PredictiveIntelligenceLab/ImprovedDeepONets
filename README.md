@@ -9,7 +9,7 @@ Operator learning techniques have recently emerged as a powerful tool for learni
 
 # Datasets
 
-https://drive.google.com/drive/folders/1ZkQ9yzlVLpzMFcu1Ep1lOPx3eHDYg3c3?usp=sharing
+- [PDE datasets] https://drive.google.com/drive/folders/1ZkQ9yzlVLpzMFcu1Ep1lOPx3eHDYg3c3?usp=sharing
 
 # Citation
 
