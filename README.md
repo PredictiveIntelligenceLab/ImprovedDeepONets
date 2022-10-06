@@ -10,7 +10,7 @@ Operator learning techniques have recently emerged as a powerful tool for learni
 # Datasets
 We provide the dataset of the Burgers equation and Stokes equation. The data generation configuration can be found in the paper.
 
-[PDE datasets](https://drive.google.com/drive/folders/1ZkQ9yzlVLpzMFcu1Ep1lOPx3eHDYg3c3?usp=sharing)
+- [PDE datasets](https://drive.google.com/drive/folders/1ZkQ9yzlVLpzMFcu1Ep1lOPx3eHDYg3c3?usp=sharing)
 
 # Citation
 
