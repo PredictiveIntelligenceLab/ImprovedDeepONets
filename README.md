@@ -1,6 +1,8 @@
 # Improved architectures and training algorithms for deep operator networks
 
-Code and data (available upon request) accompanying the manuscript titled "Improved architectures and training algorithms for deep operator networks", authored by Sifan Wang, Hanwen Wang, and Paris Perdikaris. For each example considered in the paper, we provide a jupyter notebook with the trained model parameters for demonstrating the implementation and visualizing our results.
+Code and data (available upon request) accompanying the manuscript titled "Improved architectures and training algorithms for deep operator networks", authored by Sifan Wang, Hanwen Wang, and Paris Perdikaris. 
+
+For each example considered in the paper, we provide a jupyter notebook with the trained model parameters for demonstrating the implementation and visualizing our results.
 
 # Abstract
 
